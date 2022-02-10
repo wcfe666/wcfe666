@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wcfe666
 - 👀 I’m interested in c
 - 🌱 I’m currently learning c++
-<!- 💞️ I’m looking to collaborate on ……>
+<!--- 💞️ I’m looking to collaborate on ……--->
 - 📫 QQ:2843382051
 
 <!---
